@@ -1,4 +1,4 @@
-# Portfolio
+![image](https://github.com/evitaw/portfolio2/assets/33277568/e1228690-6e02-43a1-ab3a-83d3e7cb4650)# Portfolio
 - [About me](#about-me)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
@@ -61,23 +61,23 @@ __Administrative Task__
 ## Tools
 
 __Trello__
-  * manage any type of project, workflow, or task tracking. Add files, checklists,
-  * workspace, list, card
-  * different stages of task to lists
-  * card represent task move across list to show status
-  * assign member, add due dates, leave comments
-  * attachment checklist
-
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * Manage workspace: create list and card, assign member, add due date and checklist, give direction and advice, leave comment, attach related file
+  * Track progress: move card across list to show status
+  * Send to Slack if needed
 
 __Slack__
- * know how to create bug reports
+ * Manage channel
+ * Communicate with other team members in channel or DM
+ * Communicate in thread for unsolved issue
    
 __TablePlus__
+ * Manage multiple databases in MySQL and PostgreSQL: make or import connection, export or import data
+ * Perform query
+ * Export database or query result to other formats
 
 __Postman__
+ * Manage personal and shared workspace
+ * 
 
 __Micsrosoft Office__
   * able to set up and operate virtual machines
