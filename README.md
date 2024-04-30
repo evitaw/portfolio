@@ -66,24 +66,41 @@ __Trello__
   * Send to Slack if needed
 
 __Slack__
- * Manage channel
- * Communicate with other team members in channel or DM
- * Communicate in thread for unsolved issue
+  * Manage channel
+  * Communicate with other team members in channel or DM
+  * Communicate in thread for unsolved issue
    
 __TablePlus__
- * Manage multiple databases in MySQL and PostgreSQL: make or import connection, export or import data
- * Perform query
- * Export database or query result to other formats
+  * Manage multiple databases in MySQL and PostgreSQL: make or import connection, export or import data
+  * Perform query
+  * Export database or query result to other formats
 
 __Postman__
- * Manage personal and shared workspace
- * 
+  * Manage personal and shared workspace: group collection, invite member
+  * Perform API testing
 
 __Micsrosoft Office__
-  * able to set up and operate virtual machines
+  * Able to operate Microsoft Word: create document, write report
+  * Able to operate Microsoft Excel: manage sheet, organize data, make chart
+  * Able to operate Microsoft PowerPoint: create slide or presentation using text, image, video
 
 __Google Workspace__
-  * know how to use Kanban boards and track project progress
+  * Able to operate Gmail: create document, write report
+  * Able to operate Google Calendar: manage sheet, organize data, make chart
+  * Able to operate Google Meet: create slide or presentation using text, image, video
+  * Able to operate Google Docs: create document, write report
+  * Able to operate Google Sheets: manage sheet, organize data, make chart
+  * Able to operate Google Slides: create slide or presentation using text, image, video
+  * Able to operate Google Forms:
+
+__Zoom__
+  * Able to operate Gmail: create document, write report
+  * Able to operate Google Calendar: manage sheet, organize data, make chart
+  * Able to operate Google Meet: create slide or presentation using text, image, video
+  * Able to operate Google Docs: create document, write report
+  * Able to operate Google Sheets: manage sheet, organize data, make chart
+  * Able to operate Google Slides: create slide or presentation using text, image, video
+  * Able to operate Google Forms:
 
 ## Examples of my work
 
