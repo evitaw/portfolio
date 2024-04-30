@@ -1,4 +1,3 @@
-![image](https://github.com/evitaw/portfolio2/assets/33277568/e1228690-6e02-43a1-ab3a-83d3e7cb4650)# Portfolio
 - [About me](#about-me)
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
