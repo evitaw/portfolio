@@ -20,12 +20,14 @@ You can find examples of the described skills in the [Examples of my work](#exam
 
 __Product Management__
   * Communicate with stakeholders to gather requirements
+  * Define product scope
   * Translate business requirements into technical specifications
   * Ensure system meets objectives
   * Demo and share knowledge with stakeholders
   * Monitor information system after launching
 
 __Project Management__
+  * Define project scope
   * Assign and communicate tasks to team members
   * Track progress
   * Ensure system runs well
@@ -51,11 +53,11 @@ __Software Documentation__
   * Record tutorial
 
 __Administrative Task__
-  * Calendar management
-  * Data entry
-  * Customer/IT support
-  * Document preparation
   * Email management
+  * Calendar management
+  * Host meeting
+  * Document preparation
+  * Customer/IT support
 
 ## Tools
 
@@ -86,19 +88,41 @@ __Micsrosoft Office__
 __Google Workspace__
   * Able to operate Gmail: perform email task
   * Able to operate Google Calendar: organize schedule, task, appointment, meeting 
-  * Able to operate Google Meet: host virtual meeting (scheduled or incidental)
+  * Able to operate Google Meet: host virtual meeting (scheduled or incidental), make meeting summary
   * Able to operate Google Docs: create document, write report, collaborate with team members
   * Able to operate Google Sheets: organize sheet and data, make chart, collaborate with team members
   * Able to operate Google Slides: create slide or presentation using text/image/video, collaborate with team members
   * Able to operate Google Forms: create survey or quiz, summarize and present result in other forms
 
 __Zoom Workplace__
-  * Host virtual meeting (scheduled or incidental)
+  * Host virtual meeting (scheduled or incidental), make meeting summary
   * Moderate team chat
 
-## Examples of my work
+## Examples of my work 
 
-### trello, slack, tableplus, postman, office, workspace, zoom
+### Customer/IT Support
+- Assist employee to reset mail password. Check the screenshot here.
+- Manage employee's account and access right. Check the screenshot here.
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+
+mengelola permintaan dan layanan teknologi informasi
+mengumpulkan kebutuhan informasi
+mengelola pengguna dan hak akses data
+menganalisis sistem informasi
+melakukan pemodelan proses sistem informasi
+merancang sistem informasi
+membuat dan mengembangkan program aplikasi sistem informasi
+mengembangan program aplikasi sistem informasi
+menyiapkan data, skenario, dan menguji coba sistem informasi
+menyusun dokumentasi pengembangan sistem informasi
+merencanakan transisi layanan ti
+merancang, menguji, mengimplementasikan integrasi data
+deteksi dan perbaikan
+menyusun petunjuk operasional
+
+
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
