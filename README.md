@@ -81,30 +81,25 @@ __Postman__
 
 __Micsrosoft Office__
   * Able to operate Microsoft Word: create document, write report
-  * Able to operate Microsoft Excel: manage sheet, organize data, make chart
-  * Able to operate Microsoft PowerPoint: create slide or presentation using text, image, video
+  * Able to operate Microsoft Excel: organize sheet and data, make chart
+  * Able to operate Microsoft PowerPoint: create slide or presentation using text/image/video
 
 __Google Workspace__
-  * Able to operate Gmail: create document, write report
-  * Able to operate Google Calendar: manage sheet, organize data, make chart
-  * Able to operate Google Meet: create slide or presentation using text, image, video
-  * Able to operate Google Docs: create document, write report
-  * Able to operate Google Sheets: manage sheet, organize data, make chart
-  * Able to operate Google Slides: create slide or presentation using text, image, video
-  * Able to operate Google Forms:
+  * Able to operate Gmail: perform email task
+  * Able to operate Google Calendar: organize schedule, task, appointment, meeting 
+  * Able to operate Google Meet: host virtual meeting (scheduled or incidental)
+  * Able to operate Google Docs: create document, write report, collaborate with team members
+  * Able to operate Google Sheets: organize sheet and data, make chart, collaborate with team members
+  * Able to operate Google Slides: create slide or presentation using text/image/video, collaborate with team members
+  * Able to operate Google Forms: create survey or quiz, summarize and present result in other forms
 
-__Zoom__
-  * Able to operate Gmail: create document, write report
-  * Able to operate Google Calendar: manage sheet, organize data, make chart
-  * Able to operate Google Meet: create slide or presentation using text, image, video
-  * Able to operate Google Docs: create document, write report
-  * Able to operate Google Sheets: manage sheet, organize data, make chart
-  * Able to operate Google Slides: create slide or presentation using text, image, video
-  * Able to operate Google Forms:
+__Zoom Workplace__
+  * Host virtual meeting (scheduled or incidental)
+  * Moderate team chat
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### trello, slack, tableplus, postman, office, workspace, zoom
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
