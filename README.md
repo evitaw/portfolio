@@ -2,10 +2,6 @@
 - [LinkedIn](#linkedin)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
 
 ## About me
 
@@ -16,8 +12,6 @@ You can see more about me in [my LinkedIn Profile](https://www.linkedin.com/in/e
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
-
 __Product Management__
   * Communicate with stakeholders to gather requirements
   * Define product scope
@@ -25,32 +19,39 @@ __Product Management__
   * Ensure system meets objectives
   * Demo and share knowledge with stakeholders
   * Monitor information system after launching
+  * Check examples of my work here
 
 __Project Management__
   * Define project scope
   * Assign and communicate tasks to team members
   * Track progress
   * Ensure system runs well
+  * Check examples of my work here
 
 __Database__
   * Design database for information system
+  * Check examples of my work here
 
 __API Testing__
   * Develop data and scenario for API testing
   * Analyze and report test result
+  * Check examples of my work here
 
 __Software Testing__
   * Develop data and scenario for software testing
   * Analyze and report test result
+  * Check examples of my work here
 
 __User Acceptance Testing__
   * Develop data and scenario for user acceptance testing
   * Analyze and report test result
+  * Check examples of my work here
 
 __Software Documentation__
   * Prepare manual book
   * Prepare API instruction
   * Record tutorial
+  * Check examples of my work here
 
 __Administrative Task__
   * Email management
@@ -58,6 +59,7 @@ __Administrative Task__
   * Host meeting
   * Document preparation
   * Customer/IT support
+  * Check examples of my work here
 
 ## Tools
 
@@ -97,52 +99,3 @@ __Google Workspace__
 __Zoom Workplace__
   * Host virtual meeting (scheduled or incidental), make meeting summary
   * Moderate team chat
-
-## Examples of my work 
-
-### Customer/IT Support
-- Assist employee to reset mail password. Check the screenshot here.
-- Manage employee's account and access right. Check the screenshot here.
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-
-mengelola permintaan dan layanan teknologi informasi
-mengumpulkan kebutuhan informasi
-mengelola pengguna dan hak akses data
-menganalisis sistem informasi
-melakukan pemodelan proses sistem informasi
-merancang sistem informasi
-membuat dan mengembangkan program aplikasi sistem informasi
-mengembangan program aplikasi sistem informasi
-menyiapkan data, skenario, dan menguji coba sistem informasi
-menyusun dokumentasi pengembangan sistem informasi
-merencanakan transisi layanan ti
-merancang, menguji, mengimplementasikan integrasi data
-deteksi dan perbaikan
-menyusun petunjuk operasional
-
-
-
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
-
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
