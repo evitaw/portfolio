@@ -61,14 +61,20 @@ __Administrative Task__
 ## Tools
 
 __Trello__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+  * manage any type of project, workflow, or task tracking. Add files, checklists,
+  * workspace, list, card
+  * different stages of task to lists
+  * card represent task move across list to show status
+  * assign member, add due dates, leave comments
+  * attachment checklist
 
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
+__Slack__
+ * know how to create bug reports
+   
 __TablePlus__
 
 __Postman__
