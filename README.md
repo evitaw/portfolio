@@ -82,7 +82,7 @@ __Postman__
   * Manage personal and shared workspace: group collection, invite member
   * Perform API testing
 
-__Micsrosoft Office__
+__Microsoft Office__
   * Able to operate Microsoft Word: create document, write report
   * Able to operate Microsoft Excel: organize sheet and data, make chart
   * Able to operate Microsoft PowerPoint: create slide or presentation using text/image/video
