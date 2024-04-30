@@ -23,6 +23,8 @@ __Product Management__
   * Communicate with stakeholders to gather requirements
   * Translate business requirements into technical specifications
   * Ensure system meets objectives
+  * Demo and share knowledge with stakeholders
+  * Monitor information system after launching
 
 __Project Management__
   * Assign and communicate tasks to team members
@@ -34,29 +36,31 @@ __Database__
 
 __API Testing__
   * Develop data and scenario for API testing
+  * Analyze and report test result
 
 __Software Testing__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * Develop data and scenario for software testing
+  * Analyze and report test result
 
 __User Acceptance Testing__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * Develop data and scenario for user acceptance testing
+  * Analyze and report test result
 
 __Software Documentation__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * Prepare manual book
+  * Prepare API instruction
+  * Record tutorial
 
 __Administrative Task__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+  * Calendar management
+  * Data entry
+  * Customer/IT support
+  * Document preparation
+  * Email management
 
 ## Tools
 
-__TestRail__
+__Trello__
   * know how to create test cases and test suits
   * able to run created test cases
   * know how to use dashboards and statistics
@@ -65,18 +69,15 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
+__TablePlus__
 
-__Browser developer tools__
+__Postman__
 
-__VirtualBox__
+__Micsrosoft Office__
   * able to set up and operate virtual machines
 
-__Trello and Notion__
+__Google Workspace__
   * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
 ## Examples of my work
 
