@@ -1,53 +1,55 @@
 # Portfolio
 - [About me](#about-me)
-- [LinkedIn](#cv)
+- [LinkedIn](#linkedin)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
 
 ## About me
 
 Years of experience in government sector, several last years in the field of information technology. Translating business requirement into product specification in detail. Overseeing information technology project throughout Software Development Life Cycle (SDLC).
 
 ## LinkedIn
-You can see more about me in [my LinkedIn Profile] (https://www.linkedin.com/in/evita-wisnuwardhani-244686146/). 
+You can see more about me in [my LinkedIn Profile](https://www.linkedin.com/in/evita-wisnuwardhani-244686146/). 
 
 ## Skills
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+__Product Management__
+  * Communicate with stakeholders to gather requirements
+  * Translate business requirements into technical specifications
+  * Ensure system meets objectives
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+__Project Management__
+  * Assign and communicate tasks to team members
+  * Track progress
+  * Ensure system runs well
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+__Database__
+  * Design database for information system
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+__API Testing__
+  * Develop data and scenario for API testing
 
-__Test documentation__
+__Software Testing__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-__SQL databases__
+__User Acceptance Testing__
   * can write complex requests using subqueries
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
+__Software Documentation__
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes
+
+__Administrative Task__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
@@ -75,25 +77,6 @@ __Trello and Notion__
 
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
-
-## Courses
-
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
 
 ## Examples of my work
 
