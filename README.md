@@ -19,39 +19,32 @@ __Product Management__
   * Ensure system meets objectives
   * Demo and share knowledge with stakeholders
   * Monitor information system after launching
-  * Check examples of my work here
 
 __Project Management__
   * Define project scope
   * Assign and communicate tasks to team members
   * Track progress
   * Ensure system runs well
-  * Check examples of my work here
 
 __Database__
   * Design database for information system
-  * Check examples of my work here
 
 __API Testing__
   * Develop data and scenario for API testing
   * Analyze and report test result
-  * Check examples of my work here
 
 __Software Testing__
   * Develop data and scenario for software testing
   * Analyze and report test result
-  * Check examples of my work here
 
 __User Acceptance Testing__
   * Develop data and scenario for user acceptance testing
   * Analyze and report test result
-  * Check examples of my work here
 
 __Software Documentation__
   * Prepare manual book
   * Prepare API instruction
   * Record tutorial
-  * Check examples of my work here
 
 __Administrative Task__
   * Email management
@@ -59,7 +52,8 @@ __Administrative Task__
   * Host meeting
   * Document preparation
   * Customer/IT support
-  * Check examples of my work here
+
+You can see examples of my work in my Portfolio.
 
 ## Tools
 
