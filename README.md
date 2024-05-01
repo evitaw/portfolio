@@ -68,7 +68,7 @@ __Slack__
   * Communicate in thread for unsolved issue
    
 __TablePlus__
-  * Manage multiple databases in MySQL and PostgreSQL: make or import connection, export or import data
+  * Manage multiple databases in MySQL, PostgreSQL, or MariaDB: make or import connection, export or import data
   * Perform query
   * Export database or query result to other formats
 
