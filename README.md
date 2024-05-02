@@ -53,7 +53,7 @@ __Administrative Task__
   * Document preparation
   * Customer/IT support
 
-You can see examples of my work in my Portfolio.
+You can see examples of my work in [my Portfolio](https://bit.ly/evitaw-portfolio).
 
 ## Tools
 
