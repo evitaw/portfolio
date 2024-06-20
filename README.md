@@ -5,7 +5,7 @@
 
 ## About me
 
-Years of experience in government sector, several last years in the field of information technology. Translating business requirement into product specification in detail. Overseeing information technology project throughout Software Development Life Cycle (SDLC).
+Years of experience in government sector, several last years in the field of information technology. Assisting executives with daily and administrative tasks. Translating business requirement into product specification in detail. Overseeing information technology project throughout Software Development Life Cycle (SDLC).
 
 ## LinkedIn
 You can see more about me in [my LinkedIn Profile](https://www.linkedin.com/in/evita-wisnuwardhani-244686146/). 
@@ -52,6 +52,9 @@ __Administrative Task__
   * Host meeting
   * Document preparation
   * Customer/IT support
+  * Internet and market research
+  * Email marketing
+  * Data entry
 
 You can see examples of my work in [my Portfolio](https://bit.ly/evitaw-portfolio).
 
